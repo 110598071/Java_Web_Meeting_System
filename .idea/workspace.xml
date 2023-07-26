@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e273b31-c6f0-4df6-9bf0-0edad7933dd7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hi26xR8ixhBoaundAM6jExUttB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dddcleankanban/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.57701147" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\web-meeting-java\web\WEB-INF\js" />
+      <recent name="D:\Project\web-meeting-java\web\WEB-INF\jsp\view" />
+      <recent name="D:\Project\web-meeting-java\web\WEB-INF\template\agreement" />
+      <recent name="D:\MeetingSystem_JAVA\web\WEB-INF\jsp\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MeetingSystem_JAVA\src\main\java" />
+      <recent name="D:\MeetingSystem_JAVA\web" />
+      <recent name="D:\MeetingSystem_JAVA\src\main\webapp" />
+      <recent name="D:\MeetingSystem_JAVA\web\WEB-INF\jsp\view" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.Server">
+    <configuration name="RankBallotsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-meeting-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.RankBallotsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankBallotsTest.modifyHTML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-meeting-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.RankBallotsTest" />
+      <option name="METHOD_NAME" value="modifyHTML" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankBallotsTest.updateBallot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-meeting-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.RankBallotsTest" />
+      <option name="METHOD_NAME" value="updateBallot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankBallotsTest.updateResultFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-meeting-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.RankBallotsTest" />
+      <option name="METHOD_NAME" value="updateResultFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="D:\Project\web-meeting-java\web\WEB-INF" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/8.5.82" />
+          <option name="path" value="$PROJECT_DIR$/../../tomcat/apache-tomcat-8.5.82" />
+          <option name="version" value="8.5.82.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RankBallotsTest" />
+      <item itemvalue="JUnit.RankBallotsTest.modifyHTML" />
+      <item itemvalue="JUnit.RankBallotsTest.updateBallot" />
+      <item itemvalue="JUnit.RankBallotsTest.updateResultFile" />
+      <item itemvalue="Smart Tomcat.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RankBallotsTest.modifyHTML" />
+        <item itemvalue="JUnit.RankBallotsTest" />
+        <item itemvalue="JUnit.RankBallotsTest.updateResultFile" />
+        <item itemvalue="JUnit.RankBallotsTest.updateBallot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e273b31-c6f0-4df6-9bf0-0edad7933dd7" name="Changes" comment="" />
+      <created>1668753414087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668753414087</updated>
+      <workItem from="1669961392077" duration="10044000" />
+      <workItem from="1670213115582" duration="10039000" />
+      <workItem from="1670566211357" duration="9167000" />
+      <workItem from="1671778044464" duration="6444000" />
+      <workItem from="1671790746749" duration="2000" />
+      <workItem from="1672382315913" duration="3245000" />
+      <workItem from="1672986587898" duration="8950000" />
+      <workItem from="1673591508863" duration="6225000" />
+      <workItem from="1676526664531" duration="5187000" />
+      <workItem from="1676560456488" duration="193541000" />
+      <workItem from="1678182370686" duration="3973000" />
+      <workItem from="1678252722814" duration="808000" />
+      <workItem from="1678353438365" duration="3621000" />
+      <workItem from="1678882441543" duration="92000" />
+      <workItem from="1682621173104" duration="409000" />
+      <workItem from="1682622402569" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
