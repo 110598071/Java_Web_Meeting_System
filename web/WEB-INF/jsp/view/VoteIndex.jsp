@@ -9,7 +9,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="../../js/VoteIndex.js"></script>
+    <script src="js/VoteIndex.js"></script>
 </head>
 
 <div class="table-card">

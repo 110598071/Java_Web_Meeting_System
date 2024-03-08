@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../../lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="../../css/site.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="../../lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <header>

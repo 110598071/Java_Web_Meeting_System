@@ -11,6 +11,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
 <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
-<script src="../../js/Viewer.js"></script>
+<script src="js/Viewer.js"></script>
 
 <jsp:include page="MeetingFooter.jsp" />
