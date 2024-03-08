@@ -323,7 +323,8 @@ public class AssessmentBallots extends Ballots {
             int[] points;
             if (!title.contains("兼任")) {
                 slashClsArray = new String[]{"X17", "X27", "X36"};
-                checkboxClsArray = new String[]{"X46", "X48"};
+//                checkboxClsArray = new String[]{"X46", "X48"};
+                checkboxClsArray = new String[]{"X46"};
                 totalScoreClsArray = new String[]{"X18", "X21"};
                 scoreCls = "X28";
                 scoreClsIdxArray = new int[]{1, 2};
@@ -371,7 +372,8 @@ public class AssessmentBallots extends Ballots {
                 ratingMethod = new_B_scoreMethod.text();
             } else {
                 slashClsArray = new String[]{"X16", "X26", "X33"};
-                checkboxClsArray = new String[]{"X43", "X45"};
+//                checkboxClsArray = new String[]{"X43", "X45"};
+                checkboxClsArray = new String[]{"X43"};
                 totalScoreClsArray = new String[]{"X17", "X20"};
                 scoreCls = "X27";
                 scoreClsIdxArray = new int[]{0, 2};

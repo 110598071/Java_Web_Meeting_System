@@ -224,6 +224,7 @@ public class VotingController extends HttpServlet {
                         out.print("3");
                     }
                 } catch (Exception e) {
+                    e.printStackTrace();
                     service.Reset(meetingType);
                     out.print("2");
                 }
